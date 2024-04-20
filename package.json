@@ -1,0 +1,16 @@
+{
+  "name": "harsh12",
+  "version": "1.0.0",
+  "description": "normal code with harsh sharma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "java",
+    "backend",
+    "harsh"
+  ],
+  "author": "harshsharma",
+  "license": "ISC"
+}
